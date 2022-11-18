@@ -1,0 +1,424 @@
+[00:00.000 --> 00:09.040]  This is Planet Money from NPR.
+[00:09.040 --> 00:15.120]  In 1982, economist Miguel Mesmacher was just a little kid growing up in Mexico City.
+[00:15.120 --> 00:20.800]  So he only remembers a tiny bit about a painful time in his region's history, a period that
+[00:20.800 --> 00:24.440]  came to be known as the Latin American debt crisis.
+[00:24.440 --> 00:27.320]  Yeah, I was 10 years old at the time.
+[00:27.320 --> 00:32.680]  I remember hearing the news and my parents being very worried about how things were going.
+[00:32.680 --> 00:36.160]  Miguel's parents were worried about losing their jobs.
+[00:36.160 --> 00:42.360]  And if the banks failed, they're savings, because the economy was falling apart.
+[00:42.360 --> 00:47.320]  At the heart of the Latin American debt crisis was, you guessed it, debt.
+[00:47.320 --> 00:52.200]  Throughout the 1970s, it was cheap to borrow money, and so countries like Mexico borrowed
+[00:52.200 --> 00:56.560]  a lot of US dollars to build stuff that they'd always wanted.
+[00:56.560 --> 01:01.080]  Like infrastructure to build up their oil production, new roads, bridges.
+[01:01.080 --> 01:06.360]  But when the US started experiencing high inflation, this is going to sound a little familiar,
+[01:06.360 --> 01:10.040]  the Federal Reserve began hiking interest rates up a lot.
+[01:10.040 --> 01:14.920]  That made it hard for countries like Mexico to pay back their dollar debts.
+[01:14.920 --> 01:20.280]  It also meant that the peso was becoming worth less and less against the dollar.
+[01:20.280 --> 01:23.640]  Things like foreign imports were getting much more expensive.
+[01:23.640 --> 01:28.000]  At the time, the 10-year-old Miguel was just getting into rock music, and he remembers
+[01:28.000 --> 01:34.120]  this historic macroeconomic event as basically destroying his record collection.
+[01:34.120 --> 01:39.480]  So I was getting into David Bowie records, for example, and I remember how the price
+[01:39.480 --> 01:42.400]  of those things suddenly skyrocketed.
+[01:42.400 --> 01:44.120]  So are you talking like vinyl?
+[01:44.120 --> 01:45.120]  Are we talking cassette tapes?
+[01:45.120 --> 01:46.120]  Yeah, no, no, vinyl.
+[01:46.120 --> 01:47.120]  Yeah, yeah, yeah.
+[01:47.120 --> 01:48.120]  The old vinyl records.
+[01:48.120 --> 01:53.800]  Suddenly, my allowance wouldn't be able to get me as much bang for the buck, in a sense.
+[01:53.800 --> 01:59.560]  Wait, so you experienced the Latin American debt crisis through the lens of David Bowie?
+[01:59.560 --> 02:02.600]  I mean, that's how I understood it at the time.
+[02:02.600 --> 02:04.520]  So there is young Miguel.
+[02:04.520 --> 02:08.880]  He's discovering David Bowie, and he wants to get a copy of, I don't know, maybe his
+[02:08.880 --> 02:14.560]  most recent album, Scary Monsters, maybe he's looking for a classic like Ziggy Stardust.
+[02:14.560 --> 02:18.860]  So he gets as much money together as he can to buy a new album.
+[02:18.860 --> 02:24.120]  But the value of the peso just kept dropping and dropping, so much so that record stores
+[02:24.120 --> 02:28.440]  in Mexico were forced to invent a whole new way to do their pricing.
+[02:28.440 --> 02:32.960]  So record stores actually in Mexico City, they devised this very sophisticated system
+[02:32.960 --> 02:35.800]  to take into account exchange rate movements.
+[02:35.800 --> 02:38.600]  So what they did is they would put a label on the record.
+[02:38.600 --> 02:42.640]  So let's say a David Bowie record would have an A1 label.
+[02:42.640 --> 02:47.360]  The new ACDC album back in black would be like B2.
+[02:47.360 --> 02:50.800]  The clash London calling, that would be like C5.
+[02:50.800 --> 02:55.720]  Then beside the cash register, guys at the record store had set up a blackboard, and
+[02:55.720 --> 02:57.640]  they would write down the prices.
+[02:57.640 --> 03:02.520]  A1 might be 80 pesos, B2 that'd be 100 pesos.
+[03:02.520 --> 03:06.560]  And then every week, depending on what happened with the exchange rate, the guys would just
+[03:06.560 --> 03:10.840]  erase the blackboard and would put the new prices without the needs to change the labels
+[03:10.840 --> 03:11.840]  in the records.
+[03:11.840 --> 03:17.920]  They did this because the exchange rate was changing so often, the value of the peso kept
+[03:17.920 --> 03:18.920]  dropping.
+[03:18.920 --> 03:22.920]  Meanwhile, the Fed kept raising interest rates, which kept putting more and more pressure
+[03:22.920 --> 03:26.880]  on Mexico's ability to pay back debts that it owed in dollars.
+[03:26.880 --> 03:32.600]  Finally, on August 12, 1982, the nation's leaders declared they'd had enough.
+[03:32.600 --> 03:36.320]  They couldn't afford to continue making their loan payments anymore.
+[03:36.320 --> 03:40.840]  That's when a volatile situation became an economic collapse.
+[03:40.840 --> 03:45.720]  The girl says that all aspects of life in Mexico were impacted by the debt crisis.
+[03:45.720 --> 03:50.800]  I mean, I was fortunate in the sense that I was from a well-to-do family and my parents
+[03:50.800 --> 03:53.160]  didn't lose their jobs and we didn't lose our house.
+[03:53.160 --> 03:58.440]  So obviously there were a lot of people who had a much tougher time than I actually had.
+[03:58.440 --> 04:04.640]  People lost their jobs, poverty rates increased dramatically, and an economy that had looked
+[04:04.640 --> 04:09.640]  strong and growing, suddenly looked like one in the middle of a depression.
+[04:09.640 --> 04:14.840]  The crisis spread to 15 other Latin American countries and to other parts of the world
+[04:14.840 --> 04:15.840]  too.
+[04:15.840 --> 04:20.920]  In Latin America, basically destroyed all economic progress for the next 10 years.
+[04:20.920 --> 04:23.920]  It's even called the lost decade.
+[04:23.920 --> 04:28.600]  We're now in another period that some worry could look like the start of the Latin American
+[04:28.600 --> 04:30.480]  debt crisis.
+[04:30.480 --> 04:35.240]  Inflation is again really high, the Federal Reserve is again hiking interest rates, and
+[04:35.240 --> 04:38.640]  the dollar is at its highest level in 20 years.
+[04:38.640 --> 04:43.320]  Which is important because the US dollar, it's not just the currency of the United
+[04:43.320 --> 04:44.320]  States.
+[04:44.320 --> 04:47.560]  In a lot of ways, it is also the currency of the world.
+[04:47.560 --> 04:53.520]  Look, we are probably not on the verge of a full-blown Latin American-wide debt crisis
+[04:53.520 --> 04:58.420]  that engulfs an entire continent, but the Fed's rate hikes and the strong dollar are
+[04:58.420 --> 05:04.080]  causing ripple effects around the world.
+[05:04.080 --> 05:05.920]  Hello and welcome to Planet Money.
+[05:05.920 --> 05:06.920]  I'm Greg Grzalski.
+[05:06.920 --> 05:08.820]  And I'm Amanda Oroncik.
+[05:08.820 --> 05:09.840]  And I'm Jeff Guo.
+[05:09.840 --> 05:15.880]  We have got such a big macro show for you today, it is going to take not one, not two,
+[05:15.880 --> 05:17.920]  but three hosts to pull this off.
+[05:17.920 --> 05:22.280]  Today on the show, we talk to people in three different countries in Latin America to see
+[05:22.280 --> 05:26.200]  what effect the strong US dollar is having on their economies.
+[05:26.200 --> 05:33.280]  We talk to an amateur currency expert in Argentina, a wine baron in Chile, and we go back to Miguel
+[05:33.280 --> 05:38.000]  to see if there have been any ch-ch-ch-changes in Mexico.
+[05:38.000 --> 05:39.000]  Greg, stop.
+[05:39.000 --> 05:41.000]  I'm an alligator.
+[05:41.000 --> 05:46.880]  Hey, it's Romteen Adablui from NPR's Throughline podcast.
+[05:46.880 --> 05:51.480]  On one of thousands more voices in the NPR network coming to you from over 200 local
+[05:51.480 --> 05:56.040]  newsrooms across the country, we bring all Americans closer together through free and
+[05:56.040 --> 06:00.360]  independent journalism, music, politics, culture, and so much more.
+[06:00.360 --> 06:07.160]  The NPR network, which you hear, changes everything.
+[06:07.160 --> 06:10.560]  We are going to start today in Argentina.
+[06:10.560 --> 06:11.720]  Why?
+[06:11.720 --> 06:16.360]  Because they are being hit really hard by the strong US dollar right now.
+[06:16.360 --> 06:21.840]  In the past six months, the Argentine peso has dropped more than 25% compared to the
+[06:21.840 --> 06:22.840]  dollar.
+[06:22.840 --> 06:27.920]  Now, exchange rates are one of the most obvious places where you can see the impact of the
+[06:27.920 --> 06:29.080]  strong dollar.
+[06:29.080 --> 06:34.800]  But exchange rates in Argentina don't just refer to a single rate.
+[06:34.800 --> 06:36.920]  It's a whole thing.
+[06:36.920 --> 06:37.920]  We'll get to it.
+[06:37.920 --> 06:40.320]  First, a bit of context.
+[06:40.320 --> 06:44.480]  Economically speaking, Argentina is a hot mess.
+[06:44.480 --> 06:50.560]  Since the Latin American debt crisis in the 80s, it's cycled through recessions and hyperinflation.
+[06:50.560 --> 06:55.400]  Since 1982, the country's government has had to call up the international lenders that
+[06:55.400 --> 07:03.480]  it owes billions of dollars to on five separate occasions, five times, to say, you know what?
+[07:03.480 --> 07:04.480]  Can't pay you back.
+[07:04.480 --> 07:05.480]  We don't have the money.
+[07:05.480 --> 07:11.800]  The economy in Argentina is so chaotic that everyone there has become an amateur economist.
+[07:11.800 --> 07:16.600]  You can call up pretty much anyone to find out what they're doing to outrun this chaos.
+[07:16.600 --> 07:22.080]  My name is Lucas Babic, B-A-B-I-C.
+[07:22.080 --> 07:27.040]  Lucas is in his early 40s, he's a freelance video editor, and I'll admit I just found
+[07:27.040 --> 07:30.000]  him through some guy who wrote into Planet Money.
+[07:30.000 --> 07:34.120]  Lucas is originally from Brazil, but he's lived in Argentina for 30 years.
+[07:34.120 --> 07:38.920]  I've been suffering Argentina since 1992, okay?
+[07:38.920 --> 07:42.560]  And why do you stay?
+[07:42.560 --> 07:46.000]  Because Argentina is awesome, like for real.
+[07:46.000 --> 07:49.080]  But everything is wrong with this place.
+[07:49.080 --> 07:52.360]  Like everything is wrong with Argentina.
+[07:52.360 --> 07:57.000]  And one of the biggest things that's wrong, according to Lucas, is that you can't trust
+[07:57.000 --> 07:58.360]  the peso.
+[07:58.360 --> 08:02.720]  So like a lot of people in the country, he stashes away US dollars.
+[08:02.720 --> 08:10.720]  If you can like hold on like a grudge to dollars in Argentina, yes, you're rich.
+[08:10.720 --> 08:20.280]  So I'm not rich, but yes, I do have like $500 in my shoebox, like Jay-Z said it.
+[08:20.280 --> 08:22.600]  You got to start with the shoebox.
+[08:22.600 --> 08:25.840]  So Lucas and I are talking over Zoom, mid-sentence.
+[08:25.840 --> 08:28.680]  I'm really like standing up and going away.
+[08:28.680 --> 08:29.680]  I'm sorry.
+[08:29.680 --> 08:31.840]  Okay, Lucas is like wandered away.
+[08:31.840 --> 08:36.920]  But like for real, this is my shoebox.
+[08:36.920 --> 08:42.240]  Oh, he's back and he's holding, it's not exactly a Nike shoebox, but a plastic bin.
+[08:42.240 --> 08:49.600]  I got, let me say, like $200 right now, and...
+[08:49.600 --> 08:52.400]  Lucas is showing me each and every American bill.
+[08:52.400 --> 09:00.400]  $10 and $20, $20 and $10, and I wish I had more.
+[09:00.400 --> 09:03.400]  Lucas, what are you saving the American dollars for?
+[09:03.400 --> 09:11.880]  I hold this thing because this is not going to devaluate, $10 is going to still be $10.
+[09:11.880 --> 09:18.960]  Bro, I can live like a week and a half with this, just this.
+[09:18.960 --> 09:21.040]  Next he picks up some Argentine money.
+[09:21.040 --> 09:23.200]  This is a thousand pesos.
+[09:23.200 --> 09:28.160]  Lucas waves it at me and he's kind of like, what can I buy with this?
+[09:28.160 --> 09:36.760]  I can go to McDonald's and buy like a really big combo with like bacon and cheese and like
+[09:36.760 --> 09:41.480]  for real, like a big combo on McDonald's.
+[09:41.480 --> 09:45.760]  I'm not going to be able to pay it with a thousand pesos.
+[09:45.760 --> 09:48.880]  I got to go with two of this.
+[09:48.880 --> 09:55.680]  He shakes his sad peso and in a year or two, he might need to take three or four of these
+[09:55.680 --> 09:59.720]  thousand peso bills to go get that combo meal.
+[09:59.720 --> 10:04.240]  Because inflation in Argentina this year might hit 100%.
+[10:04.240 --> 10:07.800]  And what Lucas wants to buy with his pesos, it's not combo meals.
+[10:07.800 --> 10:11.160]  It's more US dollars to stash in his shoebox.
+[10:11.160 --> 10:17.120]  And this is where the story gets kind of weird because buying dollars is not straightforward.
+[10:17.120 --> 10:22.000]  The Argentine government controls foreign exchange transactions because they don't want
+[10:22.000 --> 10:24.960]  US dollars to run off and leave Argentina.
+[10:24.960 --> 10:27.040]  Okay, so here we go.
+[10:27.040 --> 10:28.800]  There is an official rate.
+[10:28.800 --> 10:34.400]  So if Lucas wants to play by the rules, he can go to a bank and buy dollars.
+[10:34.400 --> 10:39.360]  But the government says there's a limit, no more than $200 a month.
+[10:39.360 --> 10:44.080]  And this is going to cost Lucas a lot because they add on a 75% tax.
+[10:44.080 --> 10:49.600]  Instead, what most people do is go to one of these not really legal, but they're kind
+[10:49.600 --> 10:54.240]  of everywhere places known as cuevas or caves.
+[10:54.240 --> 10:57.120]  These have a different exchange rate than the bank.
+[10:57.120 --> 11:01.320]  No $200 limit, no 75% tax to get dollars this way.
+[11:01.320 --> 11:04.840]  That's what we call the blue dollar, okay?
+[11:04.840 --> 11:06.240]  It's still an American dollar.
+[11:06.240 --> 11:08.040]  It's not like literally blue.
+[11:08.040 --> 11:11.840]  The blue dollar just means you bought it on the black market.
+[11:11.840 --> 11:15.760]  Lucas says that if you've got a guy, you might even be able to get a better deal.
+[11:15.760 --> 11:20.480]  I have a friend like us.
+[11:20.480 --> 11:23.360]  He's giving me a pretty elaborate wink.
+[11:23.360 --> 11:29.320]  I have a friend that will give me more money for this bill.
+[11:29.320 --> 11:32.120]  So there is the official rate.
+[11:32.120 --> 11:34.120]  There's a black market rate.
+[11:34.120 --> 11:36.280]  There's a, you got a friend rate.
+[11:36.280 --> 11:41.680]  But then on top of that, there are these other rates, which like the official rate are set
+[11:41.680 --> 11:42.880]  by the government.
+[11:42.880 --> 11:45.080]  There's one for buying stocks and bonds.
+[11:45.080 --> 11:47.400]  There's another for using a credit card.
+[11:47.400 --> 11:50.680]  There are more than a dozen of these different rates.
+[11:50.680 --> 11:55.880]  Some even have cute names like the soy dollar or the tech dollar.
+[11:55.880 --> 12:00.920]  Now at this point in Lucas's explanation, he's kind of fuming.
+[12:00.920 --> 12:02.520]  He's also literally fuming.
+[12:02.520 --> 12:06.080]  I'm watching him chain smoke three cigarettes in a row.
+[12:06.080 --> 12:07.480]  And you know what?
+[12:07.480 --> 12:08.480]  Coldplay.
+[12:08.480 --> 12:12.720]  Coldplay is coming to Argentina.
+[12:12.720 --> 12:19.680]  They're going to come to Argentina and play their songs that I hate, like boring or whatever.
+[12:19.680 --> 12:23.080]  But there is a Coldplay dollar.
+[12:23.080 --> 12:24.640]  Can you believe it?
+[12:24.640 --> 12:27.200]  The Coldplay dollar.
+[12:27.200 --> 12:30.400]  Coldplay is supposed to play 10 shows in Argentina.
+[12:30.400 --> 12:32.120]  Lucas says he will not be there.
+[12:32.120 --> 12:37.800]  And Coldplay, well, the band doesn't want to be paid in quickly devaluing pesos.
+[12:37.800 --> 12:43.680]  But the show promoters, they need to pay Coldplay probably in dollars and a lot more than the
+[12:43.680 --> 12:47.080]  200 that they're officially allowed to get each month.
+[12:47.080 --> 12:52.960]  So the government set up a special exchange rate for promoters so they can pay international
+[12:52.960 --> 12:53.960]  talent.
+[12:53.960 --> 12:56.320]  And I guess that describes Coldplay.
+[12:56.320 --> 12:59.760]  There's also this cutter dollar that was recently introduced.
+[12:59.760 --> 13:05.400]  This one's aimed at Argentines who will spend dollars at the World Cup in cutter.
+[13:05.400 --> 13:07.560]  But this is a bad exchange rate.
+[13:07.560 --> 13:09.680]  It's kind of like a tax.
+[13:09.680 --> 13:13.800]  And it's there because the government wants to discourage people from spending money
+[13:13.800 --> 13:15.400]  outside the country.
+[13:15.400 --> 13:20.520]  Basically, the Argentine government is using all these different rules and rates to fix
+[13:20.520 --> 13:23.040]  problems like with the Coldplay dollar.
+[13:23.040 --> 13:27.160]  But more importantly, they're doing this as a way to keep scarce dollars from leaving
+[13:27.160 --> 13:30.720]  the country and to try to prevent their peso from collapsing.
+[13:30.720 --> 13:36.480]  Now for Lucas, he's like a lot of people in Argentina right now hit by rising inflation,
+[13:36.480 --> 13:39.320]  a shrinking peso, a rising dollar.
+[13:39.320 --> 13:44.200]  You have to really work it out like to get to the end of the month.
+[13:44.200 --> 13:52.840]  You have to really, really, really work it out to get to pay the rent and the light and
+[13:52.840 --> 13:57.840]  the water and your phone.
+[13:57.840 --> 14:02.880]  Which is also what the government of Argentina is now doing, trying to work it out.
+[14:02.880 --> 14:08.800]  Because most of their bills, billions of dollars of debt, need to be paid back in dollars.
+[14:08.800 --> 14:13.520]  And with the value of the US dollar so high, it makes it that much harder to pay all those
+[14:13.520 --> 14:14.520]  debts back.
+[14:14.520 --> 14:19.800]  In Argentina's government, their shoebox is looking pretty empty.
+[14:19.800 --> 14:25.520]  Just like Lucas, they still need to pay for their phone and their water and they want
+[14:25.520 --> 14:36.440]  to keep the lights on.
+[14:36.440 --> 14:38.800]  Next we are going to turn our attention to Chile.
+[14:38.800 --> 14:44.640]  In the last six months, the Chilean peso has dropped about 16% compared to the dollar.
+[14:44.640 --> 14:48.480]  But the situation in Chile is way less dire than in Argentina.
+[14:48.480 --> 14:54.200]  Yeah, and you know, Chile was one of the countries that got it the worst during the 1982 debt
+[14:54.200 --> 14:55.280]  crisis.
+[14:55.280 --> 15:00.800]  Back then, Chileans took out a lot of loans in dollars, like 70% of their GDP.
+[15:00.800 --> 15:05.040]  So when the value of the dollar shot up, the amount they owed suddenly shot up too.
+[15:05.040 --> 15:08.960]  Prices went bankrupt, more than 20% of Chileans were out of work.
+[15:08.960 --> 15:13.360]  The entire economy shrank by 14% in a single year.
+[15:13.360 --> 15:16.160]  It was like the music had suddenly stopped.
+[15:16.160 --> 15:20.120]  The party was over and everybody had to go to the kitchen to wash the dishes.
+[15:20.120 --> 15:22.920]  It was like that for almost a decade.
+[15:22.920 --> 15:28.320]  Since then, the Chileans have completely restructured their economy in a way that makes them pretty
+[15:28.320 --> 15:31.960]  well prepared for the return of the strong dollar.
+[15:31.960 --> 15:37.040]  And one of the ways they've done that is by massively boosting their exports.
+[15:37.040 --> 15:42.360]  To learn how Chile got to this point, we talked to a guy at the center of Chile's export boom.
+[15:42.360 --> 15:50.800]  My name is Aurelio Montes and I've been already 50 years making wine and moving around my
+[15:50.800 --> 15:53.680]  own country and around the world.
+[15:53.680 --> 15:58.640]  Aurelio runs Montes Wines, which he started with three friends back in 1988.
+[15:58.640 --> 16:03.600]  Before that, he'd been a winemaker for some of Chile's top wineries, but then he lost
+[16:03.600 --> 16:04.600]  his job.
+[16:04.600 --> 16:08.520]  He was 39 with a big family and lots of bills to pay.
+[16:08.520 --> 16:09.920]  I had to make a living.
+[16:09.920 --> 16:10.920]  I was married.
+[16:10.920 --> 16:19.160]  I had five kids at home, so I need to bring money home for education, clothes, medicine.
+[16:19.160 --> 16:23.600]  But Aurelio wanted to build his own winery and he had a plan.
+[16:23.600 --> 16:25.120]  There's just one problem.
+[16:25.120 --> 16:31.920]  We had no money, no personal money, we're coming from normal Chilean families.
+[16:31.920 --> 16:34.600]  No fortune behind ourselves.
+[16:34.600 --> 16:39.160]  This was not the greatest time to be starting a company in Chile.
+[16:39.160 --> 16:44.400]  The country was still crawling back from the debt crisis and the Chilean banks, they weren't
+[16:44.400 --> 16:48.600]  that interested in lending to four wannabe wine entrepreneurs.
+[16:48.600 --> 16:50.680]  So we're not reliable.
+[16:50.680 --> 16:57.120]  For dreamers to build a winery in a certain way, well, the bank consistent didn't believe
+[16:57.120 --> 16:58.120]  in us.
+[16:58.120 --> 17:01.160]  That's why the beginning was very, very slow.
+[17:01.160 --> 17:04.000]  Aurelio's plan wasn't just to make wine.
+[17:04.000 --> 17:06.480]  He wanted to make wine for export.
+[17:06.480 --> 17:11.560]  He wanted his wine to go out in the world and to bring dollars back home.
+[17:11.560 --> 17:18.280]  At that time, Chile wasn't really doing that, but Aurelio had all of these big ideas, like
+[17:18.280 --> 17:23.360]  bringing in new varieties of grapes, planting them where no one had planted grapes before.
+[17:23.360 --> 17:28.520]  And over the last three decades, he has built one of Chile's most famous wineries.
+[17:28.520 --> 17:34.120]  He sold millions of dollars worth of wine and almost all of it outside of Chile.
+[17:34.120 --> 17:39.960]  The wine industry, they said, no, it's impossible to compete against France, Italy, Spain, up
+[17:39.960 --> 17:43.160]  Chile's too far, no one knows about Chile.
+[17:43.160 --> 17:48.120]  But we demonstrate that a good wine, no matter from where it comes, it's got a place in
+[17:48.120 --> 17:49.120]  the market.
+[17:49.120 --> 17:54.080]  These days, around 70% of Chilean wine is sold internationally.
+[17:54.080 --> 18:00.200]  Chile has become the number four wine exporter in the entire world, right behind France,
+[18:00.200 --> 18:01.640]  Italy, and Spain.
+[18:01.640 --> 18:06.120]  The rise of Chile's wine industry kind of goes hand in hand with the rise of Chile's
+[18:06.120 --> 18:08.680]  economy in the last 30 years.
+[18:08.680 --> 18:14.680]  Coming out of the debt crisis, the Chileans started to really focus on growing their exports.
+[18:14.680 --> 18:19.600]  They planted and upgraded lots of vineyards, they built a lot of copper mines, and they
+[18:19.600 --> 18:26.000]  expanded their commercial fishing fleet, all with the goal of selling more stuff overseas.
+[18:26.000 --> 18:31.840]  Economists call this export-led growth, and they point to Chile as one of the best examples.
+[18:31.840 --> 18:36.040]  To grow your economy, figure out the most valuable thing you can sell to the rest of
+[18:36.040 --> 18:39.360]  the world, and just make a lot of that.
+[18:39.360 --> 18:45.920]  That's how exports went from a $5 billion industry in Chile to a $100 billion industry.
+[18:45.920 --> 18:49.440]  Exports now make up 30% of the Chilean economy.
+[18:49.440 --> 18:55.400]  And for all the exporters like Aurelio, the strong dollar has been mostly good news.
+[18:55.400 --> 19:00.320]  In our case, we export 95% of our production, so we were very happy because we were getting
+[19:00.320 --> 19:02.440]  more pesos for every dollar.
+[19:02.440 --> 19:07.920]  Aurelio sells his wine mostly in dollars, but his costs are mostly in pesos.
+[19:07.920 --> 19:12.640]  Some of his materials, like cork and bottles, are imported, but pretty much everything else
+[19:12.640 --> 19:14.640]  he pays for in pesos.
+[19:14.640 --> 19:16.960]  He buys the land for his vineyards in pesos.
+[19:16.960 --> 19:19.400]  He pays his employees in pesos.
+[19:19.400 --> 19:24.360]  So the strong dollar has been helping Chile's exporters, which again are a big chunk of
+[19:24.360 --> 19:25.600]  its economy.
+[19:25.600 --> 19:31.480]  But for any new would-be Aurelios, the strong dollar has made life a lot harder.
+[19:31.480 --> 19:35.560]  Investors these days, they want to put their money into the US and not Chile.
+[19:35.560 --> 19:40.040]  So I think that investment has stopped because of this crazy think of the strength of the
+[19:40.040 --> 19:41.040]  dollar.
+[19:41.040 --> 19:45.800]  So the investment in Chile, it's nearly totally dry.
+[19:45.800 --> 19:51.320]  And most importantly, strong dollar also means imports become more expensive, which
+[19:51.320 --> 19:53.400]  can drive inflation.
+[19:53.400 --> 19:58.840]  Inflation will go up to 14% this year when we were used to a three, two and a half, three
+[19:58.840 --> 20:00.800]  or four percent the most.
+[20:00.800 --> 20:07.800]  And that's very bad, especially for poor people, that they need to work a lot just for the
+[20:07.800 --> 20:12.800]  sake of educating their children and having food on the table.
+[20:12.800 --> 20:17.580]  Economists say that for export-focused countries like Chile, if you add everything up, the
+[20:17.580 --> 20:21.400]  benefits of a strong dollar might outweigh the costs.
+[20:21.400 --> 20:30.560]  But those benefits and those costs, they can be shared really unevenly.
+[20:30.560 --> 20:36.680]  Over the break, we visit Mexico, where the strong dollar turns out actually to not be
+[20:36.680 --> 20:47.440]  that strong at all.
+[20:47.440 --> 20:52.120]  Now while Argentina is very much struggling with a rising dollar and in Chile, there are
+[20:52.120 --> 20:54.840]  worries, although much less so.
+[20:54.840 --> 20:59.360]  There are other places in Latin America where the strong dollar actually isn't strong
+[20:59.360 --> 21:00.440]  at all.
+[21:00.440 --> 21:05.880]  For the past six months, the value of the dollar has gone down against the Mexican peso.
+[21:05.880 --> 21:11.200]  It's gone down, and Mexico seems to be weathering the storm just fine.
+[21:11.200 --> 21:16.320]  So what is different about Mexico now versus the Mexico of the Latin American debt crisis
+[21:16.320 --> 21:17.320]  time?
+[21:17.320 --> 21:19.680]  Why is the story so different?
+[21:19.680 --> 21:22.680]  To answer that question, Greg Rizalski, hello again, you're back.
+[21:22.680 --> 21:23.680]  Hey Amanda.
+[21:23.680 --> 21:26.160]  So remember Miguel, the David Bowie fan?
+[21:26.160 --> 21:30.640]  Well, I called him because I wanted to figure out why the Mexican peso is holding up so
+[21:30.640 --> 21:33.440]  much better today than it did in the past.
+[21:33.440 --> 21:38.080]  After the last decade, Miguel went on to play a pretty big role in the Mexican economy.
+[21:38.080 --> 21:42.840]  He worked at the central bank, he was the chief economist for the Ministry of Finance,
+[21:42.840 --> 21:45.560]  and then in 2012, he was promoted.
+[21:45.560 --> 21:50.700]  For five years, I was the undersecretary for revenue, so I was a tax man.
+[21:50.700 --> 21:55.200]  After all of our talk about David Bowie, I mean, come on, I had to bring up the Beatles
+[21:55.200 --> 21:56.960]  song, Tax Man.
+[21:56.960 --> 21:58.480]  Oh, I love that song.
+[21:58.480 --> 22:03.640]  I don't listen to it every morning, but I really liked it, and I really appreciate it.
+[22:03.640 --> 22:08.400]  Anyway, Miguel says there are a few important explanations for why the peso in Mexico is
+[22:08.400 --> 22:12.520]  behaving differently than the pesos in Argentina or Chile.
+[22:12.520 --> 22:15.320]  First up, Mexico's financial sector.
+[22:15.320 --> 22:20.240]  Back in the 1980s, Miguel says Mexico lacked strong financial regulations.
+[22:20.240 --> 22:25.520]  More importantly, its central bank did not have any real independence from politicians.
+[22:25.520 --> 22:30.320]  The problem with not having an independent central bank is that the federal government
+[22:30.320 --> 22:36.840]  can actually try to strong arm the central bank to help it finance its expenditures,
+[22:36.840 --> 22:40.840]  and therefore just have too much money going around, and that translating eventually into
+[22:40.840 --> 22:43.320]  much higher levels of inflation.
+[22:43.320 --> 22:46.240]  That's a little bit what you see in Argentina right now.
+[22:46.240 --> 22:51.880]  If the president wanted to run large deficits to juice the economy, he could basically order
+[22:51.880 --> 22:57.080]  the central bank to print more and more money, which was not a great way to manage an economy.
+[22:57.080 --> 23:02.120]  But in the mid 1990s, Mexico adopted a number of reforms, which strengthened its financial
+[23:02.120 --> 23:05.280]  sector and created an independent central bank.
+[23:05.280 --> 23:10.960]  In the last year or so, that central bank has been working aggressively to hike interest
+[23:10.960 --> 23:14.920]  rates to fight inflation and keep the peso strong.
+[23:14.920 --> 23:18.400]  It's also kind of been flexing its independence.
+[23:18.400 --> 23:22.520]  Hiking rates, despite pressure from Mexico's president, not to raise them.
+[23:22.520 --> 23:24.800]  Okay, so that is reason number one.
+[23:24.800 --> 23:30.120]  Reason number two for why the Mexican peso is staying strong, Mexico's economy is stronger
+[23:30.120 --> 23:32.480]  and more resilient than it was in the past.
+[23:32.480 --> 23:37.240]  Back in the 1980s, Miguel says the country was super dependent on oil production.
+[23:37.240 --> 23:41.560]  But over the last several decades, with the help of trade agreements like NAFTA, the Mexican
+[23:41.560 --> 23:45.240]  economy has become way more industrialized and diversified.
+[23:45.240 --> 23:52.680]  So nowadays, Mexico exports are 80% manufacturers and only 10% is oil.
+[23:52.680 --> 23:58.000]  And therefore, Mexico is much less vulnerable to sort of what happens just with the price
+[23:58.000 --> 24:00.960]  of oil in the global economy.
+[24:00.960 --> 24:03.640]  And that actually provides much more resilience.
+[24:03.640 --> 24:08.960]  Now even if the price of oil drops, Mexico can fall back on other things it exports,
+[24:08.960 --> 24:11.920]  like auto parts or textiles or appliances.
+[24:11.920 --> 24:16.240]  So the economy keeps chugging along in a way it couldn't in the past.
+[24:16.240 --> 24:18.000]  And the peso stays strong.
+[24:18.000 --> 24:23.520]  The third and perhaps the most important reason for the strong peso, Miguel says, has to do
+[24:23.520 --> 24:27.760]  with the way the Mexican government has been managing its finances.
+[24:27.760 --> 24:32.800]  One very important thing is that, and there are pros and cons behind this, but I think
+[24:32.800 --> 24:40.080]  that overall Mexico during the last, let's say 10, 15 years has tried to be very careful
+[24:40.080 --> 24:42.360]  on its fiscal side.
+[24:42.360 --> 24:45.120]  Its fiscal side as in taxing and spending.
+[24:45.120 --> 24:48.920]  Mexico has been very conservative with its spending over the last few decades.
+[24:48.920 --> 24:54.760]  In fact, for a relatively rich country, Mexico has a really small amount of debt relative
+[24:54.760 --> 24:56.160]  to its GDP.
+[24:56.160 --> 24:58.280]  It is way below average.
+[24:58.280 --> 25:02.840]  But depending on where you sit politically and how you read the data, that might not actually
+[25:02.840 --> 25:04.240]  be a great thing.
+[25:04.240 --> 25:08.840]  Some argue that Mexico could be spending a lot more on its problems, like its high poverty
+[25:08.840 --> 25:12.520]  rate or its weak recovery from the pandemic.
+[25:12.520 --> 25:18.840]  So yeah, it's clear that Mexico is in a very solid financial position and this is reflected
+[25:18.840 --> 25:24.320]  in this very strong peso, for example, and this very stable financial situation.
+[25:24.320 --> 25:29.760]  But on the other hand, economic activity has been weaker in Mexico than it has been in
+[25:29.760 --> 25:30.760]  other places.
+[25:30.760 --> 25:32.880]  So there is clearly a trade-off.
+[25:32.880 --> 25:36.200]  Mexico has come a long way since the 1980s.
+[25:36.200 --> 25:40.320]  These days, it's more insulated from the ups and downs of the dollar.
+[25:40.320 --> 25:45.040]  But Miguel says the country still lives in the shadow of the US economy.
+[25:45.040 --> 25:49.000]  When the US Federal Reserve hikes interest rates and strengthens the dollar, Mexican
+[25:49.000 --> 25:54.160]  policymakers have to respond, usually by raising their own interest rates and potentially
+[25:54.160 --> 25:58.120]  slowing down their economy more than they would otherwise need to.
+[25:58.120 --> 26:01.560]  For Mexico, anything that happens in the US is important.
+[26:01.560 --> 26:06.480]  And we have this joke in Mexico that whenever the US gets a cold, Mexico gets a pneumonia.
+[26:06.480 --> 26:07.480]  Oh no.
+[26:07.480 --> 26:09.600]  Whenever the US needs us, we get a cold.
+[26:09.600 --> 26:14.480]  But when the US has a party, Mexico, does it also get invited to the party?
+[26:14.480 --> 26:15.480]  No, that's the issue.
+[26:15.480 --> 26:16.480]  No.
+[26:16.480 --> 26:19.800]  I mean, there are pros and cons, again, in the relationship between Mexico and the US.
+[26:19.800 --> 26:26.160]  So I mean, overall, I think that the relationship between Mexico and the US is an extraordinarily
+[26:26.160 --> 26:27.960]  positive one.
+[26:27.960 --> 26:32.320]  The only thing is that in the relationship, the US is the giant.
+[26:32.320 --> 26:39.280]  So whenever the US goes up or goes down, Mexico has to go up or down by a larger amount just
+[26:39.280 --> 26:41.880]  because it's a smaller party in the relationship.
+[26:41.880 --> 26:44.600]  Today, Mexico is better prepared.
+[26:44.600 --> 26:49.040]  It can deal with the ripple effects of these big changes coming out of the US economy better
+[26:49.040 --> 26:51.320]  than it did in 1982.
+[26:51.320 --> 26:54.240]  But that doesn't mean it doesn't feel them.
+[26:54.240 --> 26:58.840]  In the words of the great lyricist David Bowie, I'm afraid of Americans.
+[26:58.840 --> 27:00.280]  I'm afraid of the world.
+[27:00.280 --> 27:03.160]  I'm afraid of the ups and downs of the dollar.
+[27:03.160 --> 27:08.720]  OK, so he didn't say that last line, but maybe he should have.
+[27:08.720 --> 27:13.720]  Hey, so Planet Money has a newsletter.
+[27:13.720 --> 27:15.080]  I tend to write it.
+[27:15.080 --> 27:16.080]  Maybe you should subscribe.
+[27:16.080 --> 27:18.040]  There's so much cool stuff.
+[27:18.040 --> 27:21.560]  Sign up at npo.org slash Planet Money newsletter.
+[27:21.560 --> 27:25.240]  Today's show was produced by Willa Rubin with help from Dave Blanchard.
+[27:25.240 --> 27:28.880]  It was mastered by Robert Rodriguez and edited by Keith Romer.
+[27:28.880 --> 27:32.360]  Jess Zhang is Planet Money's acting executive producer.
+[27:32.360 --> 27:34.520]  So many people to thank this week.
+[27:34.520 --> 27:35.800]  We really had a lot of help.
+[27:35.800 --> 27:36.800]  Thank you.
+[27:36.800 --> 27:37.800]  Thank you.
+[27:37.800 --> 27:41.360]  Thank you to Julio Alonso, to Christina Arriano at the Federal Reserve Bank of Minneapolis,
+[27:41.360 --> 27:48.920]  to Kerry Kahn, Edward Gilliland, Guillermo Ortiz, Nicolas Sildias, and independent economist Zachary Sears.
+[27:48.920 --> 27:51.360]  Thank you all very much.
+[27:51.360 --> 27:52.560]  I'm Amanda Orancik.
+[27:52.560 --> 27:53.560]  I'm Jeff Guel.
+[27:53.560 --> 27:54.720]  And I'm Greg Grzalski.
+[27:54.720 --> 27:55.960]  This is NPR.
+[27:55.960 --> 28:12.000]  Thanks for listening.
