@@ -1,31 +1,49 @@
-import express, { Express, Request, Response } from 'express';
+import express, { Express } from 'express';
 import cors from 'cors';
 
-import parseTranscript from './parseTranscript';
+import { getTimestamp } from './util';
+import { logger, notFoundError, errorHandler } from './middleware';
+import routes from './routes';
+
+// environment variables
+require('dotenv').config();
+const {IP, PORT} = process.env;
+
+
 
 const app: Express = express();
 app.use(cors());
 
-const IP = "127.0.0.1";
-const PORT = 3000;
-app.listen(PORT, IP, () => {
-  console.log('Server started at',IP,':',PORT);
 
-  // const lines = parseTranscript('./transcript.txt');
-  // console.log("lines", lines);
-});
 
-app.get('/', (req: Request, res: Response) => {
-  // logging time of the request
-  const now = new Date();
-  const current = now.getHours() + ':' + now.getMinutes();
-  console.log(current, "fetching transcript");
+// logging middleware
+app.use(logger);
 
-  const transcript = parseTranscript('./transcript.txt');
 
-  res.send({
-    message: 'Transcript successfully parsed!',
-    transcript
-  });
 
-});
+// routes
+app.use(routes);
+
+
+
+// throw error for routes not found in routes.ts
+app.use(notFoundError);
+
+
+
+// error handler
+app.use(errorHandler);
+
+
+
+// run the server
+app.listen(
+  Number(PORT),
+  IP,
+  () => console.table({
+    'Start Time': getTimestamp().long,
+    "Environment": process.env.NODE_ENV,
+    "IP": IP,
+    "Port": PORT,
+  })
+);

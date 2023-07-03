@@ -1,0 +1,66 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+
+// copied from /services/Types.ts
+  // id: string;
+  // title: string;
+  // description: string;
+  // published: string;
+  // duration: number;
+  // transcript: string;
+  // tags: string[];
+  // showId: string;
+  // showObj?: ShowObj;
+
+model Playlist {
+  id          String   @id @default(cuid())
+  title       String
+  description String
+  duration    Int
+  tags        String[]
+  clips       String[]
+}
+
+
+model Clip {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  title     String   @db.VarChar(255)
+  description String
+  content   String?
+  duration  Int
+  // transcript String[]
+  timeBegin Int
+  timeEnd   Int
+  tags      String[]
+}
+
+model Source {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  title     String   @db.VarChar(255)
+  content   String?
+  duration  Int?
+  transcript String
+  tags      String[]
+  publishDate String
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  password  String
+  name      String?
+}

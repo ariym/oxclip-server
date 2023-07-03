@@ -2,7 +2,7 @@ import fs from 'fs';
 
 
 // Interface for transcript array objects
-export interface TranscriptLine {
+interface TranscriptLine {
   timestampBegin: string;
   timestampEnd: string;
   speech: string;
@@ -12,7 +12,9 @@ export interface TranscriptLine {
 const getTxtFile = (pth: string) => fs.readFileSync(pth, 'utf8');
 
 
-export default function parseTranscript(filePath: string): TranscriptLine[] {
+export function parseTranscript(episodeId: String): TranscriptLine[] {
+  // const filePath = './content/transcript_joeydiaz_522.txt';
+  const filePath = './content/transcript_npr.txt';
 
   // 1. Split the transcript into lines
   const lines = getTxtFile(filePath).split('[');
